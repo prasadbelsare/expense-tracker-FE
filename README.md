@@ -1,7 +1,7 @@
 # Expense Tracker
 
 ## Overview
-The Expense Tracker App is a usefull and user friendly tool to help you manage your finances by tracking your expenses and incomes. This app allows users to add, view, edit, and delete transactions, as well as categorize them for better financial management.
+The Expense Tracker App is a useful and user-friendly tool to help you manage your finances by tracking your expenses and income. This app allows users to add, view, edit, and delete transactions and categorize them for better financial management.
 
 ## Features
 - User Authentication: Secure user registration and login functionality.
